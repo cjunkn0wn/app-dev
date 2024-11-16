@@ -1,20 +1,20 @@
 # app-dev
 My first repository
 
-# My Favorite Movie: **Stranger Things**
+# My Favorite Series: **Stranger Things**
 
 ## Overview
 *Stranger Things* This nostalgic nod to '80s sci-fi and horror classics has earned dozens of Emmy nominations, including three for Outstanding Drama.
 
-> "Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange."  
-> — Dom Cobb
+> "The world is full of monsters with different faces."  
+> — Hopper (Season 2, Episode 2)
 
 ### Why I Love It
 1. The Upside Down and its creatures are genuinely creepy and intriguing. The Demogorgons, Mind Flayer, and Vecna add layers of mystery and danger.
 2. It's not just about monsters—it's about love, family, and friendship. Hopper's fatherly care for Eleven, Joyce’s undying love for Will, and the group’s loyalty to each other always hit me in the feels.
 3. The series constantly keeps me guessing, with cliffhangers and shocking reveals that make it impossible to stop binge-watching.
 4. The show transports me to a simpler era with its retro aesthetics, arcade games, walkie-talkies, and synth-heavy music. The vibe feels authentic and immersive.
->Highly Recommended
+> Highly Recommended
 
 
 ### Favorite Characters
